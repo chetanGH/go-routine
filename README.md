@@ -105,3 +105,9 @@ The sales data is stored in `data/SalesData.go` as a 2D slice, representing sale
    ```
 
 ---
+
+## ⭐ Support and Learn Together!
+If you found this project helpful or learned something new, consider giving it a ⭐ on GitHub!  
+Let's learn and grow together!
+
+---
