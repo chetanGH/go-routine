@@ -1,4 +1,4 @@
-# go-routine: Concurrency Patterns in Go
+# Go-routine: Concurrency Patterns in Go
 
 ## Overview
 This project demonstrates various concurrency patterns in Go for calculating total sales across multiple regions. It highlights skills in using goroutines, channels, mutexes, and WaitGroups to manage concurrent execution effectively.
